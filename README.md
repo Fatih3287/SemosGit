@@ -1,0 +1,2 @@
+# SemosGit
+beginner project
